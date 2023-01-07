@@ -28,12 +28,9 @@ fork of https://github.com/liyasthomas/banner
 
 ## Demo
 
-[https://liyasthomas.github.io/banner](https://liyasthomas.github.io/banner)
 
-1. Give a heading
-2. Customize everything!
-3. Download banner
+https://vaginessa.github.io/banner-gen
 
-You're done!
+🍌🍌🍌
 
 ---
